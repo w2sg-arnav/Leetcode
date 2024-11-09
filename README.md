@@ -1,3 +1,3 @@
 # DSA
-##Starting and journaling my DSA journey here.
+Starting and journaling my DSA journey here.
 
