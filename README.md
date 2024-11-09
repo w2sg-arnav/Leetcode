@@ -1,2 +1,3 @@
 # DSA
-Data Structures and Algorithms for me
+##Starting and journaling my DSA journey here.
+
